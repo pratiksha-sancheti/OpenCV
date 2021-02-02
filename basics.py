@@ -1,9 +1,6 @@
 import cv2
 import numpy as np
 
-print("Package Imported")
-
-
 ##Reading Image
 
 img = cv2.imread('Resources/abc.jpg')
