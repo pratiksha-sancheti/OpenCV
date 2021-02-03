@@ -1,5 +1,7 @@
 import cv2
 import numpy as np
+
+
 def stackImages(scale,imgArray):
     rows = len(imgArray)
     cols = len(imgArray[0])
